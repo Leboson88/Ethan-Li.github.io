@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Selen Su / Homepage"
+title                    : "Ethan Li / Homepage"
 title_separator          : "-"
-name                     : Selen
+name                     : Ethan Li
 description              : &description "personal description"
-url                      : https://selen-suyue.github.io
+url                      : https://ethon-li.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Selen-Suyue/Selen"
+repository               : "Leboson88/Ethon-Li"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
